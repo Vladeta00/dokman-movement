@@ -79,6 +79,10 @@
   color: #333;
 }
 
+.mobile-menu-icon[name="close-outline"] {
+  display: none;
+}
+
 /**************************/
 /* INTRODUCTION SECTION */
 /**************************/
